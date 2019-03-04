@@ -1,0 +1,7 @@
+C:\Users\admin\source\repos\InvesionOfControl\InvesionOfControl\bin\Debug\InvesionOfControl.exe.config
+C:\Users\admin\source\repos\InvesionOfControl\InvesionOfControl\bin\Debug\InvesionOfControl.exe
+C:\Users\admin\source\repos\InvesionOfControl\InvesionOfControl\bin\Debug\InvesionOfControl.pdb
+C:\Users\admin\source\repos\InvesionOfControl\InvesionOfControl\obj\Debug\InvesionOfControl.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\InvesionOfControl\InvesionOfControl\obj\Debug\InvesionOfControl.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\InvesionOfControl\InvesionOfControl\obj\Debug\InvesionOfControl.exe
+C:\Users\admin\source\repos\InvesionOfControl\InvesionOfControl\obj\Debug\InvesionOfControl.pdb
